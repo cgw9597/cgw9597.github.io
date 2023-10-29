@@ -11,7 +11,7 @@ urls:
    # - text: Home
    #   url: /
     - text: About Me
-      url: /about
+      url: /https://origin-c.tistory.com/
     - text: Blog
       url: /blog
     # - text: Gallery
@@ -29,8 +29,8 @@ author: Choi giwon
 author_bio: Hi, my name is Choi giwon.
 author_email: "dnflsnsk1001@gmail.com"
 author_location: Korea
-author_website_url: "https://sujaykundu.com"
-typewrite-text: HI
+author_website_url: null
+typewrite-text: HI~!
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
